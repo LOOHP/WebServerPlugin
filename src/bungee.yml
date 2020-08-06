@@ -1,0 +1,4 @@
+name: WebServerPlugin
+author: loohp
+version: 1.0.0
+main: com.loohp.webserverplugin.WebServerPluginBungee
